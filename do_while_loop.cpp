@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+int main(){
+    int i=0;
+    do {
+        cout<<"HEI! you are in Code diaries!"<<endl;
+        i++;
+    }while(i<5);
+    return 0;
+}
